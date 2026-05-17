@@ -168,3 +168,92 @@ These upgrades can gradually transform this simple landing page into a full-scal
 This project is a foundational step into the world of web development. While it is simple in structure, it covers the essential building blocks needed to understand how websites are created and displayed on the internet.
 
 It demonstrates how a small amount of code can create a visually appealing and interactive experience. More importantly, it serves as a starting point for building more complex and professional web projects in the future.
+
+
+🌐 Hello Landing Page
+
+
+
+
+
+
+
+
+A simple and clean landing page built with HTML, CSS, and JavaScript.
+This project is designed for beginners to understand basic web structure, styling, and deployment using GitHub Pages.
+
+🚀 Live Demo
+
+👉 https://yourusername.github.io/your-repo-name/
+
+📸 Preview
+
+Add a screenshot of your project here.
+
+💻 Desktop View
+
+📱 Mobile View
+
+Tip: Replace screenshot.png with your actual image file.
+
+✨ Features
+Clean full-screen landing layout
+Centered hero section
+Modern gradient background
+Responsive design
+Interactive button with click event
+Smooth hover effects
+Lightweight and fast loading
+🧱 Built With
+HTML5 – Structure
+CSS3 – Styling and layout
+JavaScript – Simple interactivity
+
+No frameworks, no libraries. Pure and simple.
+
+📂 Project Structure
+project-folder/
+│
+├── index.html
+├── README.md
+└── screenshot.png
+🖼️ How to Add Screenshots
+Take a screenshot of your website
+Rename it to screenshot.png
+Place it inside your project folder
+Commit and push to GitHub:
+git add screenshot.png
+git commit -m "add screenshot"
+git push
+⚙️ Setup & Deployment
+
+To run this project locally:
+
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
+open index.html
+
+To deploy using GitHub Pages:
+
+Go to Settings → Pages
+Select branch: main
+Select folder: /root
+Click Save
+🎯 Purpose
+
+This project is created for learning and practicing frontend development basics. It helps understand how real websites are structured and deployed.
+
+🔮 Future Improvements
+Add animations using CSS or JS
+Create multiple pages (About, Contact)
+Add dark mode toggle
+Improve UI with modern design system
+Convert into a personal portfolio
+👨‍💻 Author
+
+Built by Sushan
+Feel free to use and modify this project.
+
+⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
