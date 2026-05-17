@@ -257,3 +257,955 @@ Feel free to use and modify this project.
 ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
+
+
+🌐 Hello Landing Page
+
+
+
+
+
+
+
+
+
+
+📌 Overview
+
+This project is a simple yet modern landing page built using core web technologies: HTML, CSS, and JavaScript. It is designed as a beginner-friendly web project that focuses on understanding how a real website is structured, styled, and displayed in a browser.
+
+The landing page displays a clean “Hello” message in the center of the screen with a visually appealing gradient background. The goal of this project is to practice frontend development fundamentals and learn how static websites work before moving into more advanced frameworks or backend systems.
+
+Even though the project is simple, it demonstrates important concepts like layout positioning, styling techniques, responsiveness, and basic user interaction.
+
+🎯 Purpose of This Project
+
+The main purpose of building this project is learning and experimentation. It helps in understanding:
+
+How HTML structures a webpage
+How CSS controls layout, colors, spacing, and design
+How JavaScript can add interactivity
+How to organize a small web project
+How to deploy a website using GitHub Pages
+
+This project acts as a foundation for future web development work. It can later be expanded into a portfolio, business landing page, or full web application.
+
+🧱 How It Works
+
+When the website loads in a browser:
+
+The HTML file is parsed and rendered
+CSS styles are applied to position and design elements
+The page displays a centered hero section with a greeting
+A button allows user interaction
+When clicked, JavaScript triggers a simple alert message
+
+This flow demonstrates how the browser processes a webpage step by step.
+
+🎨 Design Details
+
+The design of this landing page is intentionally minimal and modern. It uses:
+
+A full-screen layout using Flexbox
+A smooth diagonal gradient background
+Large, bold heading text for focus
+Light supporting text for simplicity
+A styled button with hover animation
+Center alignment for a clean UI structure
+
+The design follows a “less is more” approach, focusing on clarity and readability rather than complexity.
+
+✨ Features
+Fully centered landing page layout
+Modern gradient background design
+Responsive structure for different screen sizes
+Interactive button with JavaScript alert
+Smooth hover animations
+Lightweight and fast performance
+No external libraries or dependencies
+Clean and beginner-friendly code
+🧰 Technologies Used
+
+This project is built using only fundamental web technologies:
+
+HTML5 – For structure and content
+CSS3 – For styling and layout design
+JavaScript (Vanilla) – For simple interactivity
+
+No frameworks or external libraries are used, making the project easy to understand and modify.
+
+📁 Project Structure
+Hello-Landing-Page/
+│
+├── index.html
+├── README.md
+└── screenshot.png (optional)
+
+The project is intentionally kept simple in structure to make it beginner-friendly and easy to deploy.
+
+📸 Screenshots
+
+Add screenshots of your project here to show how it looks.
+
+Desktop View
+
+Mobile View
+
+Tip: You can take screenshots using Snipping Tool (Windows) or built-in screen capture tools and save them as screenshot.png.
+
+🚀 Setup & Installation
+
+To run this project locally:
+
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
+
+Then open:
+
+index.html
+
+in any browser.
+
+🌍 Deployment (GitHub Pages)
+
+To publish this project online:
+
+Go to your GitHub repository
+Open Settings
+Click Pages
+Under “Source”, select:
+Branch: main
+Folder: /root
+Click Save
+
+After a few seconds, your site will be live at:
+
+https://yourusername.github.io/repository-name/
+🧠 What I Learned
+
+This project helped reinforce several key frontend skills:
+
+Structuring a webpage using semantic HTML
+Styling with CSS Flexbox and gradients
+Creating responsive layouts
+Adding simple JavaScript interactions
+Understanding browser rendering flow
+Using Git and GitHub for version control
+Deploying a static website using GitHub Pages
+
+It is a strong starting point for more advanced projects.
+
+🔮 Future Improvements
+
+This project can be improved further by adding:
+
+Multiple pages (About, Contact, Projects)
+Smooth scrolling navigation bar
+Animations using CSS or JavaScript
+Dark mode toggle
+Improved typography using Google Fonts
+Form input section
+Portfolio-style redesign
+API integration for dynamic content
+👨‍💻 Author
+
+Created by Sushan
+A beginner web development project focused on learning and growth.
+
+⭐ Feedback
+
+If you like this project, feel free to star the repository and suggest improvements. Feedback helps improve future versions.
+
+
+🌐 Hello Landing Page
+
+
+
+
+
+
+
+
+
+
+📌 Overview
+
+This project is a simple yet modern landing page built using core web technologies: HTML, CSS, and JavaScript. It is designed as a beginner-friendly web project that focuses on understanding how a real website is structured, styled, and displayed in a browser.
+
+The landing page displays a clean “Hello” message in the center of the screen with a visually appealing gradient background. The goal of this project is to practice frontend development fundamentals and learn how static websites work before moving into more advanced frameworks or backend systems.
+
+Even though the project is simple, it demonstrates important concepts like layout positioning, styling techniques, responsiveness, and basic user interaction.
+
+🎯 Purpose of This Project
+
+The main purpose of building this project is learning and experimentation. It helps in understanding:
+
+How HTML structures a webpage
+How CSS controls layout, colors, spacing, and design
+How JavaScript can add interactivity
+How to organize a small web project
+How to deploy a website using GitHub Pages
+
+This project acts as a foundation for future web development work. It can later be expanded into a portfolio, business landing page, or full web application.
+
+🧱 How It Works
+
+When the website loads in a browser:
+
+The HTML file is parsed and rendered
+CSS styles are applied to position and design elements
+The page displays a centered hero section with a greeting
+A button allows user interaction
+When clicked, JavaScript triggers a simple alert message
+
+This flow demonstrates how the browser processes a webpage step by step.
+
+🎨 Design Details
+
+The design of this landing page is intentionally minimal and modern. It uses:
+
+A full-screen layout using Flexbox
+A smooth diagonal gradient background
+Large, bold heading text for focus
+Light supporting text for simplicity
+A styled button with hover animation
+Center alignment for a clean UI structure
+
+The design follows a “less is more” approach, focusing on clarity and readability rather than complexity.
+
+✨ Features
+Fully centered landing page layout
+Modern gradient background design
+Responsive structure for different screen sizes
+Interactive button with JavaScript alert
+Smooth hover animations
+Lightweight and fast performance
+No external libraries or dependencies
+Clean and beginner-friendly code
+🧰 Technologies Used
+
+This project is built using only fundamental web technologies:
+
+HTML5 – For structure and content
+CSS3 – For styling and layout design
+JavaScript (Vanilla) – For simple interactivity
+
+No frameworks or external libraries are used, making the project easy to understand and modify.
+
+📁 Project Structure
+Hello-Landing-Page/
+│
+├── index.html
+├── README.md
+└── screenshot.png (optional)
+
+The project is intentionally kept simple in structure to make it beginner-friendly and easy to deploy.
+
+📸 Screenshots
+
+Add screenshots of your project here to show how it looks.
+
+Desktop View
+
+Mobile View
+
+Tip: You can take screenshots using Snipping Tool (Windows) or built-in screen capture tools and save them as screenshot.png.
+
+🚀 Setup & Installation
+
+To run this project locally:
+
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
+
+Then open:
+
+index.html
+
+in any browser.
+
+🌍 Deployment (GitHub Pages)
+
+To publish this project online:
+
+Go to your GitHub repository
+Open Settings
+Click Pages
+Under “Source”, select:
+Branch: main
+Folder: /root
+Click Save
+
+After a few seconds, your site will be live at:
+
+https://yourusername.github.io/repository-name/
+🧠 What I Learned
+
+This project helped reinforce several key frontend skills:
+
+Structuring a webpage using semantic HTML
+Styling with CSS Flexbox and gradients
+Creating responsive layouts
+Adding simple JavaScript interactions
+Understanding browser rendering flow
+Using Git and GitHub for version control
+Deploying a static website using GitHub Pages
+
+It is a strong starting point for more advanced projects.
+
+🔮 Future Improvements
+
+This project can be improved further by adding:
+
+Multiple pages (About, Contact, Projects)
+Smooth scrolling navigation bar
+Animations using CSS or JavaScript
+Dark mode toggle
+Improved typography using Google Fonts
+Form input section
+Portfolio-style redesign
+API integration for dynamic content
+👨‍💻 Author
+
+Created by Sushan
+A beginner web development project focused on learning and growth.
+
+⭐ Feedback
+
+If you like this project, feel free to star the repository and suggest improvements. Feedback helps improve future versions.
+
+
+🌐 Hello Landing Page
+
+
+
+
+
+
+
+
+
+
+📌 Overview
+
+This project is a simple yet modern landing page built using core web technologies: HTML, CSS, and JavaScript. It is designed as a beginner-friendly web project that focuses on understanding how a real website is structured, styled, and displayed in a browser.
+
+The landing page displays a clean “Hello” message in the center of the screen with a visually appealing gradient background. The goal of this project is to practice frontend development fundamentals and learn how static websites work before moving into more advanced frameworks or backend systems.
+
+Even though the project is simple, it demonstrates important concepts like layout positioning, styling techniques, responsiveness, and basic user interaction.
+
+🎯 Purpose of This Project
+
+The main purpose of building this project is learning and experimentation. It helps in understanding:
+
+How HTML structures a webpage
+How CSS controls layout, colors, spacing, and design
+How JavaScript can add interactivity
+How to organize a small web project
+How to deploy a website using GitHub Pages
+
+This project acts as a foundation for future web development work. It can later be expanded into a portfolio, business landing page, or full web application.
+
+🧱 How It Works
+
+When the website loads in a browser:
+
+The HTML file is parsed and rendered
+CSS styles are applied to position and design elements
+The page displays a centered hero section with a greeting
+A button allows user interaction
+When clicked, JavaScript triggers a simple alert message
+
+This flow demonstrates how the browser processes a webpage step by step.
+
+🎨 Design Details
+
+The design of this landing page is intentionally minimal and modern. It uses:
+
+A full-screen layout using Flexbox
+A smooth diagonal gradient background
+Large, bold heading text for focus
+Light supporting text for simplicity
+A styled button with hover animation
+Center alignment for a clean UI structure
+
+The design follows a “less is more” approach, focusing on clarity and readability rather than complexity.
+
+✨ Features
+Fully centered landing page layout
+Modern gradient background design
+Responsive structure for different screen sizes
+Interactive button with JavaScript alert
+Smooth hover animations
+Lightweight and fast performance
+No external libraries or dependencies
+Clean and beginner-friendly code
+🧰 Technologies Used
+
+This project is built using only fundamental web technologies:
+
+HTML5 – For structure and content
+CSS3 – For styling and layout design
+JavaScript (Vanilla) – For simple interactivity
+
+No frameworks or external libraries are used, making the project easy to understand and modify.
+
+📁 Project Structure
+Hello-Landing-Page/
+│
+├── index.html
+├── README.md
+└── screenshot.png (optional)
+
+The project is intentionally kept simple in structure to make it beginner-friendly and easy to deploy.
+
+📸 Screenshots
+
+Add screenshots of your project here to show how it looks.
+
+Desktop View
+
+Mobile View
+
+Tip: You can take screenshots using Snipping Tool (Windows) or built-in screen capture tools and save them as screenshot.png.
+
+🚀 Setup & Installation
+
+To run this project locally:
+
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
+
+Then open:
+
+index.html
+
+in any browser.
+
+🌍 Deployment (GitHub Pages)
+
+To publish this project online:
+
+Go to your GitHub repository
+Open Settings
+Click Pages
+Under “Source”, select:
+Branch: main
+Folder: /root
+Click Save
+
+After a few seconds, your site will be live at:
+
+https://yourusername.github.io/repository-name/
+🧠 What I Learned
+
+This project helped reinforce several key frontend skills:
+
+Structuring a webpage using semantic HTML
+Styling with CSS Flexbox and gradients
+Creating responsive layouts
+Adding simple JavaScript interactions
+Understanding browser rendering flow
+Using Git and GitHub for version control
+Deploying a static website using GitHub Pages
+
+It is a strong starting point for more advanced projects.
+
+🔮 Future Improvements
+
+This project can be improved further by adding:
+
+Multiple pages (About, Contact, Projects)
+Smooth scrolling navigation bar
+Animations using CSS or JavaScript
+Dark mode toggle
+Improved typography using Google Fonts
+Form input section
+Portfolio-style redesign
+API integration for dynamic content
+👨‍💻 Author
+
+Created by Sushan
+A beginner web development project focused on learning and growth.
+
+⭐ Feedback
+
+If you like this project, feel free to star the repository and suggest improvements. Feedback helps improve future versions.
+
+
+🌐 Hello Landing Page
+
+
+
+
+
+
+
+
+
+
+📌 Overview
+
+This project is a simple yet modern landing page built using core web technologies: HTML, CSS, and JavaScript. It is designed as a beginner-friendly web project that focuses on understanding how a real website is structured, styled, and displayed in a browser.
+
+The landing page displays a clean “Hello” message in the center of the screen with a visually appealing gradient background. The goal of this project is to practice frontend development fundamentals and learn how static websites work before moving into more advanced frameworks or backend systems.
+
+Even though the project is simple, it demonstrates important concepts like layout positioning, styling techniques, responsiveness, and basic user interaction.
+
+🎯 Purpose of This Project
+
+The main purpose of building this project is learning and experimentation. It helps in understanding:
+
+How HTML structures a webpage
+How CSS controls layout, colors, spacing, and design
+How JavaScript can add interactivity
+How to organize a small web project
+How to deploy a website using GitHub Pages
+
+This project acts as a foundation for future web development work. It can later be expanded into a portfolio, business landing page, or full web application.
+
+🧱 How It Works
+
+When the website loads in a browser:
+
+The HTML file is parsed and rendered
+CSS styles are applied to position and design elements
+The page displays a centered hero section with a greeting
+A button allows user interaction
+When clicked, JavaScript triggers a simple alert message
+
+This flow demonstrates how the browser processes a webpage step by step.
+
+🎨 Design Details
+
+The design of this landing page is intentionally minimal and modern. It uses:
+
+A full-screen layout using Flexbox
+A smooth diagonal gradient background
+Large, bold heading text for focus
+Light supporting text for simplicity
+A styled button with hover animation
+Center alignment for a clean UI structure
+
+The design follows a “less is more” approach, focusing on clarity and readability rather than complexity.
+
+✨ Features
+Fully centered landing page layout
+Modern gradient background design
+Responsive structure for different screen sizes
+Interactive button with JavaScript alert
+Smooth hover animations
+Lightweight and fast performance
+No external libraries or dependencies
+Clean and beginner-friendly code
+🧰 Technologies Used
+
+This project is built using only fundamental web technologies:
+
+HTML5 – For structure and content
+CSS3 – For styling and layout design
+JavaScript (Vanilla) – For simple interactivity
+
+No frameworks or external libraries are used, making the project easy to understand and modify.
+
+📁 Project Structure
+Hello-Landing-Page/
+│
+├── index.html
+├── README.md
+└── screenshot.png (optional)
+
+The project is intentionally kept simple in structure to make it beginner-friendly and easy to deploy.
+
+📸 Screenshots
+
+Add screenshots of your project here to show how it looks.
+
+Desktop View
+
+Mobile View
+
+Tip: You can take screenshots using Snipping Tool (Windows) or built-in screen capture tools and save them as screenshot.png.
+
+🚀 Setup & Installation
+
+To run this project locally:
+
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
+
+Then open:
+
+index.html
+
+in any browser.
+
+🌍 Deployment (GitHub Pages)
+
+To publish this project online:
+
+Go to your GitHub repository
+Open Settings
+Click Pages
+Under “Source”, select:
+Branch: main
+Folder: /root
+Click Save
+
+After a few seconds, your site will be live at:
+
+https://yourusername.github.io/repository-name/
+🧠 What I Learned
+
+This project helped reinforce several key frontend skills:
+
+Structuring a webpage using semantic HTML
+Styling with CSS Flexbox and gradients
+Creating responsive layouts
+Adding simple JavaScript interactions
+Understanding browser rendering flow
+Using Git and GitHub for version control
+Deploying a static website using GitHub Pages
+
+It is a strong starting point for more advanced projects.
+
+🔮 Future Improvements
+
+This project can be improved further by adding:
+
+Multiple pages (About, Contact, Projects)
+Smooth scrolling navigation bar
+Animations using CSS or JavaScript
+Dark mode toggle
+Improved typography using Google Fonts
+Form input section
+Portfolio-style redesign
+API integration for dynamic content
+👨‍💻 Author
+
+Created by Sushan
+A beginner web development project focused on learning and growth.
+
+⭐ Feedback
+
+If you like this project, feel free to star the repository and suggest improvements. Feedback helps improve future versions.
+
+
+
+🌐 Hello Landing Page
+
+
+
+
+
+
+
+
+
+
+📌 Overview
+
+This project is a simple yet modern landing page built using core web technologies: HTML, CSS, and JavaScript. It is designed as a beginner-friendly web project that focuses on understanding how a real website is structured, styled, and displayed in a browser.
+
+The landing page displays a clean “Hello” message in the center of the screen with a visually appealing gradient background. The goal of this project is to practice frontend development fundamentals and learn how static websites work before moving into more advanced frameworks or backend systems.
+
+Even though the project is simple, it demonstrates important concepts like layout positioning, styling techniques, responsiveness, and basic user interaction.
+
+🎯 Purpose of This Project
+
+The main purpose of building this project is learning and experimentation. It helps in understanding:
+
+How HTML structures a webpage
+How CSS controls layout, colors, spacing, and design
+How JavaScript can add interactivity
+How to organize a small web project
+How to deploy a website using GitHub Pages
+
+This project acts as a foundation for future web development work. It can later be expanded into a portfolio, business landing page, or full web application.
+
+🧱 How It Works
+
+When the website loads in a browser:
+
+The HTML file is parsed and rendered
+CSS styles are applied to position and design elements
+The page displays a centered hero section with a greeting
+A button allows user interaction
+When clicked, JavaScript triggers a simple alert message
+
+This flow demonstrates how the browser processes a webpage step by step.
+
+🎨 Design Details
+
+The design of this landing page is intentionally minimal and modern. It uses:
+
+A full-screen layout using Flexbox
+A smooth diagonal gradient background
+Large, bold heading text for focus
+Light supporting text for simplicity
+A styled button with hover animation
+Center alignment for a clean UI structure
+
+The design follows a “less is more” approach, focusing on clarity and readability rather than complexity.
+
+✨ Features
+Fully centered landing page layout
+Modern gradient background design
+Responsive structure for different screen sizes
+Interactive button with JavaScript alert
+Smooth hover animations
+Lightweight and fast performance
+No external libraries or dependencies
+Clean and beginner-friendly code
+🧰 Technologies Used
+
+This project is built using only fundamental web technologies:
+
+HTML5 – For structure and content
+CSS3 – For styling and layout design
+JavaScript (Vanilla) – For simple interactivity
+
+No frameworks or external libraries are used, making the project easy to understand and modify.
+
+📁 Project Structure
+Hello-Landing-Page/
+│
+├── index.html
+├── README.md
+└── screenshot.png (optional)
+
+The project is intentionally kept simple in structure to make it beginner-friendly and easy to deploy.
+
+📸 Screenshots
+
+Add screenshots of your project here to show how it looks.
+
+Desktop View
+
+Mobile View
+
+Tip: You can take screenshots using Snipping Tool (Windows) or built-in screen capture tools and save them as screenshot.png.
+
+🚀 Setup & Installation
+
+To run this project locally:
+
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
+
+Then open:
+
+index.html
+
+in any browser.
+
+🌍 Deployment (GitHub Pages)
+
+To publish this project online:
+
+Go to your GitHub repository
+Open Settings
+Click Pages
+Under “Source”, select:
+Branch: main
+Folder: /root
+Click Save
+
+After a few seconds, your site will be live at:
+
+https://yourusername.github.io/repository-name/
+🧠 What I Learned
+
+This project helped reinforce several key frontend skills:
+
+Structuring a webpage using semantic HTML
+Styling with CSS Flexbox and gradients
+Creating responsive layouts
+Adding simple JavaScript interactions
+Understanding browser rendering flow
+Using Git and GitHub for version control
+Deploying a static website using GitHub Pages
+
+It is a strong starting point for more advanced projects.
+
+🔮 Future Improvements
+
+This project can be improved further by adding:
+
+Multiple pages (About, Contact, Projects)
+Smooth scrolling navigation bar
+Animations using CSS or JavaScript
+Dark mode toggle
+Improved typography using Google Fonts
+Form input section
+Portfolio-style redesign
+API integration for dynamic content
+👨‍💻 Author
+
+Created by Sushan
+A beginner web development project focused on learning and growth.
+
+⭐ Feedback
+
+If you like this project, feel free to star the repository and suggest improvements. Feedback helps improve future versions.
+
+
+
+🌐 Hello Landing Page
+
+
+
+
+
+
+
+
+
+
+📌 Overview
+
+This project is a simple yet modern landing page built using core web technologies: HTML, CSS, and JavaScript. It is designed as a beginner-friendly web project that focuses on understanding how a real website is structured, styled, and displayed in a browser.
+
+The landing page displays a clean “Hello” message in the center of the screen with a visually appealing gradient background. The goal of this project is to practice frontend development fundamentals and learn how static websites work before moving into more advanced frameworks or backend systems.
+
+Even though the project is simple, it demonstrates important concepts like layout positioning, styling techniques, responsiveness, and basic user interaction.
+
+🎯 Purpose of This Project
+
+The main purpose of building this project is learning and experimentation. It helps in understanding:
+
+How HTML structures a webpage
+How CSS controls layout, colors, spacing, and design
+How JavaScript can add interactivity
+How to organize a small web project
+How to deploy a website using GitHub Pages
+
+This project acts as a foundation for future web development work. It can later be expanded into a portfolio, business landing page, or full web application.
+
+🧱 How It Works
+
+When the website loads in a browser:
+
+The HTML file is parsed and rendered
+CSS styles are applied to position and design elements
+The page displays a centered hero section with a greeting
+A button allows user interaction
+When clicked, JavaScript triggers a simple alert message
+
+This flow demonstrates how the browser processes a webpage step by step.
+
+🎨 Design Details
+
+The design of this landing page is intentionally minimal and modern. It uses:
+
+A full-screen layout using Flexbox
+A smooth diagonal gradient background
+Large, bold heading text for focus
+Light supporting text for simplicity
+A styled button with hover animation
+Center alignment for a clean UI structure
+
+The design follows a “less is more” approach, focusing on clarity and readability rather than complexity.
+
+✨ Features
+Fully centered landing page layout
+Modern gradient background design
+Responsive structure for different screen sizes
+Interactive button with JavaScript alert
+Smooth hover animations
+Lightweight and fast performance
+No external libraries or dependencies
+Clean and beginner-friendly code
+🧰 Technologies Used
+
+This project is built using only fundamental web technologies:
+
+HTML5 – For structure and content
+CSS3 – For styling and layout design
+JavaScript (Vanilla) – For simple interactivity
+
+No frameworks or external libraries are used, making the project easy to understand and modify.
+
+📁 Project Structure
+Hello-Landing-Page/
+│
+├── index.html
+├── README.md
+└── screenshot.png (optional)
+
+The project is intentionally kept simple in structure to make it beginner-friendly and easy to deploy.
+
+📸 Screenshots
+
+Add screenshots of your project here to show how it looks.
+
+Desktop View
+
+Mobile View
+
+Tip: You can take screenshots using Snipping Tool (Windows) or built-in screen capture tools and save them as screenshot.png.
+
+🚀 Setup & Installation
+
+To run this project locally:
+
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
+
+Then open:
+
+index.html
+
+in any browser.
+
+🌍 Deployment (GitHub Pages)
+
+To publish this project online:
+
+Go to your GitHub repository
+Open Settings
+Click Pages
+Under “Source”, select:
+Branch: main
+Folder: /root
+Click Save
+
+After a few seconds, your site will be live at:
+
+https://yourusername.github.io/repository-name/
+🧠 What I Learned
+
+This project helped reinforce several key frontend skills:
+
+Structuring a webpage using semantic HTML
+Styling with CSS Flexbox and gradients
+Creating responsive layouts
+Adding simple JavaScript interactions
+Understanding browser rendering flow
+Using Git and GitHub for version control
+Deploying a static website using GitHub Pages
+
+It is a strong starting point for more advanced projects.
+
+🔮 Future Improvements
+
+This project can be improved further by adding:
+
+Multiple pages (About, Contact, Projects)
+Smooth scrolling navigation bar
+Animations using CSS or JavaScript
+Dark mode toggle
+Improved typography using Google Fonts
+Form input section
+Portfolio-style redesign
+API integration for dynamic content
+👨‍💻 Author
+
+Created by Sushan
+A beginner web development project focused on learning and growth.
+
+⭐ Feedback
+
+If you like this project, feel free to star the repository and suggest improvements. Feedback helps improve future versions.
+
+
